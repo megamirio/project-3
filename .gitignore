@@ -1,0 +1,17 @@
+node_modules
+
+logs
+*.log
+
+build
+dist
+
+coverage
+shippable
+
+config/test/contracts.json
+config/development/contracts.json
+config/development/*.sol.js
+
+*.iml
+.idea

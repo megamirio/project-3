@@ -1,0 +1,22 @@
+{
+  "name": "project-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "npm": "^6.1.0",
+    "bluebird": "^3.5.1",
+    "web3": "0.20.6",
+    "truffle": "^4.1.11"
+  },
+  "devDependencies": {
+    "assert-plus": "^1.0.0",
+    "ganache-cli": "6.0.3",
+    "mocha": "^5.0.0"
+  }
+}
